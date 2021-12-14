@@ -17,7 +17,7 @@ Clone the git repository on your machine, `cd` to the repository, open a Python3
 ```python
 from fourier.transform import transform as intervalDFT
 from fourier.application import application as app
-from fourier.number import number as int_num
+from fourier.number import interval as int_num
 import numpy
 from numpy import (arange, cos, exp, linspace, mean, pi,  sin, zeros) 
 from matplotlib import pyplot, cm
