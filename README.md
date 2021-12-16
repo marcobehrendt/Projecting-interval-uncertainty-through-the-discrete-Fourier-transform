@@ -11,6 +11,8 @@ This repository provides a method that can propagate interval uncertainty throug
 
 **De Angelis, M.; Behrendt, M.; Comerford, L.; Zhang, Y.; Beer, M. (2021):** Forward interval propagation through the discrete Fourier transform, The 9th international workshop on Reliable Engineering Computing, [arXiv:2012.09778](https://arxiv.org/abs/2012.09778).
 
+The up-to-date code for the interval Fourier transform lives at https://github.com/marcodeangelis/Fourier-transform.
+
 ## Installation
 Clone the git repository on your machine, `cd` to the repository, open a Python3 interpreter and import the *interval Fourier transform* ans other useful packages
 
