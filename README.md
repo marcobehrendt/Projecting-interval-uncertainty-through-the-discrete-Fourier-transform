@@ -5,9 +5,7 @@ This repository provides a method that can propagate interval uncertainty throug
 *Disclaimer:* This code was developed for illustration purposes and for proof-of-concept. Thus, this code is not optimised for large-scale applications.
 
 ## References
-<!--
-**Behrendt, M.; de Angelis, M.; Comerford, L.; Zhang, Y,; Beer, M. (2022):** Projecting interval uncertainty through the discrete Fourier transform: an application to time signals with poor precision, Mechanical Systems and Signal Processing, XXX, Article XXX, DOI: [10.1016/j.ymssp.2021.108346](https://doi.org/10.1016/j.ymssp.2021.108346).
--->
+**Behrendt, M.; de Angelis, M.; Comerford, L.; Zhang, Y,; Beer, M. (2022):** Projecting interval uncertainty through the discrete Fourier transform: an application to time signals with poor precision, Mechanical Systems and Signal Processing, 172, Article 108920, DOI: [10.1016/j.ymssp.2022.108920](https://doi.org/10.1016/j.ymssp.2022.108920).
 
 **De Angelis, M.; Behrendt, M.; Comerford, L.; Zhang, Y.; Beer, M. (2021):** Forward interval propagation through the discrete Fourier transform, The 9th international workshop on Reliable Engineering Computing, [arXiv:2012.09778](https://arxiv.org/abs/2012.09778).
 
